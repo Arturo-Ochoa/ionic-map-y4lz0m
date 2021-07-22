@@ -1,0 +1,8 @@
+{
+  "name": "Ionic-map",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "797afb30"
+}
